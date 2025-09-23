@@ -1,8 +1,0 @@
-- Solução pseudocódigo
-
-1. Leia n
-2. d1 = n - 1
-3. d2 = 10 - n
-4. r = (d1 * 10) + d2
-5. Imprima r
-
