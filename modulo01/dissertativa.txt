@@ -1,0 +1,16 @@
+- SOLUÇÃO DISSERTATIVA
+
+Solicite ao usuário um valor n que servirá como base para os cálculos;
+→ entrada: n
+
+Calcule o valor de n - 1 e guarde esse resultado como o primeiro dígito;
+→ d1 = n - 1
+
+Calcule agora 10 - n e guarde o resultado como o segundo dígito;
+→ d2 = 10 - n
+
+Para montar o valor final, faça a multiplicação do primeiro dígito por 10 e adicione o segundo dígito. Salve esse resultado;
+→ r = d1 × 10 + d2
+
+Exiba o resultado r na tela e encerre o programa;
+→ saída: r
